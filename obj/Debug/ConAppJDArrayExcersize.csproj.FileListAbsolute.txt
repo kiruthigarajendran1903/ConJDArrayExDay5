@@ -1,0 +1,8 @@
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\bin\Debug\ConAppJDArrayExcersize.exe.config
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\bin\Debug\ConAppJDArrayExcersize.exe
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\bin\Debug\ConAppJDArrayExcersize.pdb
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\obj\Debug\ConAppJDArrayExcersize.csproj.AssemblyReference.cache
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\obj\Debug\ConAppJDArrayExcersize.csproj.SuggestedBindingRedirects.cache
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\obj\Debug\ConAppJDArrayExcersize.csproj.CoreCompileInputs.cache
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\obj\Debug\ConAppJDArrayExcersize.exe
+D:\ConAppJDArrayExcersize\ConAppJDArrayExcersize\obj\Debug\ConAppJDArrayExcersize.pdb
